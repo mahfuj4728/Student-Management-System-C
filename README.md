@@ -25,7 +25,6 @@ The system allows users to:
 
 ## 🛠 Concepts Used
 
-- Structure (`struct`)
 - Arrays
 - Functions
 - Loops
