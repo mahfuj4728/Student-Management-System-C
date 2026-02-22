@@ -35,19 +35,6 @@ The system allows users to:
 
 ---
 
-## ▶️ How to Run
-
-### Compile
-```
-gcc main.c -o student
-```
-
-### Run
-```
-./student
-```
-
----
 
 ## 📸 Screenshots
 
